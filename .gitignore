@@ -1,0 +1,12 @@
+node_modules/
+client/dist/
+.env
+.env.*
+!.env.example
+*.log
+coverage/
+.vercel/
+.render/
+client/public/videos/
+.DS_Store
+Thumbs.db
